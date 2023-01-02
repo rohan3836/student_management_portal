@@ -1,0 +1,4 @@
+batch_id,batch_name,dept_id,courses
+CSE22,Computer Science and Engineering-2022,BSH,"['PHY101', 'MAT102', 'PPP104', 'EFE105', 'BEV106']"
+ECE22,Electronics and Communication Engineering-2022,BSH,"['PHY101', 'MAT102', 'BEE103', 'EFE105', 'BEV106']"
+CSE21,Computer Science and Engineering-2021,BSH,"['PHY101', 'MAT102', 'PPP104', 'EFE105']"

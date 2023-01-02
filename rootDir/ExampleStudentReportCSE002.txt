@@ -1,0 +1,19 @@
+Student ID: CSE002
+Student Name: Soumya
+Student Roll No: 10
+Department Name: Basic Science and Humanities
+Department ID: BSH
+Batch Name: Computer Science and Engineering-2022
+Batch ID: CSE22
+
+Student Grades:
+                                         Course  Marks Grade
+                   Engineering Physics[PHY101]   95.0     A
+               Engineering Mathematics[MAT102]   67.0     D
+Python Programming for Problem Solving[PPP104]   89.0     B
+Economics Finance and Entrepreneurship[EFE105]   58.0     E
+                 Biology for Engineers[BEV106]   87.0     B
+Total Marks: 396.0
+Average Marks = 396.0/500 = 79.2
+Final Grade: C
+Conclusion: Pass
